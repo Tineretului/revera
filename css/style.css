@@ -1,0 +1,58 @@
+.navbar-brand{
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 40px;
+  color: red;
+}
+
+.navbar-nav{
+  margin-left: 400px;
+
+}
+
+
+.container-fluid{
+  background-color: red;
+  height: 440px;
+  text-align: center;
+}
+
+.col{
+  width: 200px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+img{
+  width: 125px;
+}
+
+.container-fluid2{
+  background-color: white;
+  height: 400px;
+}
+
+h1{
+  font-size: 28px;
+}
+
+h2{
+  font-size: 16px;
+  color: grey;
+}
+
+.topic{
+  margin-top: 40px;
+}
+
+h5, h6{
+  text-align: left;
+}
+
+@media (min-width: 400px){
+.col-12{
+      width: 50%;
+    }
+
+}
